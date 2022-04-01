@@ -1,0 +1,5 @@
+{
+  "serverPort" : 700,
+  "dbUrl": "mongodb+srv://taras:qwerty1234@cloud.jm2zi.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key"
+}
